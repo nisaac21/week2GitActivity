@@ -9,3 +9,5 @@ const result_subtract = calc.subtract(3,1)
 console.log(`result_add = ${result_add}`);
 
 console.log('done.')
+
+calc.hello();
